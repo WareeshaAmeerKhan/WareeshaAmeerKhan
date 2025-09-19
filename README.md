@@ -7,7 +7,7 @@ With a growing foundation in programming (**C, C++, C#, MySQL, HTML, CSS, JS, an
 
 Currently, I am exploring **software development, databases, and object-oriented programming**, with plans to expand into **web development, AI, and data science**.  
 
-Outside academics, I actively participate in student societies like **ACM UET**, which helps me build **collaboration, leadership, and communication skills**.  
+Outside academics, I actively participate in student societies like **ACM UET**, which helps me build **collaboration, leadership, and communication skills**. I am **Co-Lead** of **Team Design, ACM UET**.
 
 I am motivated to take on opportunities that allow me to **learn, grow, and contribute**, whether through internships, research, or collaborative projects. My long-term goal is to **build impactful solutions** that combine innovation with practicality.  
 
