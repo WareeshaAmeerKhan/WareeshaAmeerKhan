@@ -23,10 +23,10 @@ I am motivated to take on opportunities that allow me to **learn, grow, and cont
 ---
 
 ## 📂 Featured Projects  
-- 🐐 **Pak Animals App** – A console-based sale and purchase app in C++  
-- 🎮 **Pest Shooter** – A fun console-based shooting game in C++  
-- 🏢 **Event Management System** – Built using C#, WinForms, and MySQL  
-- ✈️ **Airline Management System** – SQL database project with a comprehensive schema  
+- 🐐 **[Pak Animals App - Qurbani App]((https://github.com/WareeshaAmeerKhan/Projects-Semester1))** – A console-based sale and purchase app in C++  
+- 🎮 **[Pest Shooter](https://github.com/WareeshaAmeerKhan/Projects-Semester1)** – A fun console-based shooting game in C++  
+- 🏢 **[ITEC Event Management System](https://github.com/WareeshaAmeerKhan/DBS25P202)** – Built using C#, WinForms, and MySQL  
+- ✈️ **[Airline Management System](https://github.com/haram-naseeb/DBS25F003)** – SQL database project with a comprehensive schema  
 
 ---
 
