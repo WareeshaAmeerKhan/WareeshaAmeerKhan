@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Wareesha Ameer Khan
+# Hi there! I'm Wareesha Ameer Khan
 
-## 👩‍💻 About Me
+## About Me
 Computer Science undergraduate at **UET Lahore (CS’28)** with hands-on experience in **full-stack development, AI systems, and secure applications**.  
 Focused on building **scalable, efficient, and user-centered software** using modern technologies.
 
