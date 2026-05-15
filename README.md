@@ -28,7 +28,7 @@ Interactive platform for learning **SQL & NoSQL databases** with progress tracki
 
 ---
 
-🤖 **AI Search Simulator & Assistant**  
+🤖 **AgentIQ**  
 Visualization of **AI search algorithms with a logical agent**  
 🔗 https://github.com/WareeshaAmeerKhan/AgentIQ  
 
@@ -39,7 +39,12 @@ IoT-based real-time system using **MQTT + REST APIs**
 
 ---
 
-✈️ **AeroSync – Airline Management System**  
+🧩 **LogicTrace**  
+Desktop platform for learning **Data Structures & Algorithms**  
+🔗 https://github.com/WareeshaAmeerKhan/LogicTrace-DSA-Learning-Platform
+
+---
+✈️ **AeroSync**  
 Full-stack desktop system for **flights, bookings & data management**  
 🔗 https://github.com/WareeshaAmeerKhan/AeroSync_Airline-Management-System  
 
