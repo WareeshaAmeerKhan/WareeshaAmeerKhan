@@ -1,39 +1,67 @@
 # Hi there! 👋 I'm Wareesha Ameer Khan
 
 ## 👩‍💻 About Me
-I am a Computer Science undergraduate at the University of Engineering & Technology (UET), Lahore (Batch 2024–2028), passionate about technology, problem-solving, and continuous learning.
-
-With a growing foundation in programming (**C, C++, C#, MySQL, HTML, CSS, JS, Python**) and hands-on experience in building academic projects like management systems and console-based games, I enjoy applying theoretical concepts to real-world scenarios.
-
-Currently, I am exploring **software development, databases, and object-oriented programming**, with plans to expand into **web development, AI, and data science**.
-
-Outside academics, I actively participate in student societies like **ACM UET**, which helps me build collaboration, leadership, and communication skills. I am **Co-Lead of Team Design, ACM UET**.
-
-I am motivated to take on opportunities that allow me to learn, grow, and contribute, whether through internships, research, or collaborative projects. My long-term goal is to build impactful solutions that combine innovation with practicality.
+Computer Science undergraduate at **UET Lahore (CS’28)** with hands-on experience in **full-stack development, AI systems, and secure applications**.  
+Focused on building **scalable, efficient, and user-centered software** using modern technologies.
 
 ---
 
-## 🛠️ Skills & Tools
-- **Programming Languages:** C, C++, C#, Python, JavaScript
-- **Web Technologies:** HTML, CSS, JS
-- **Databases:** MySQL
-- **Tools & Platforms:** GitHub, VS Code, Visual Studio, MySQL Workbench, WinForms, Canva
-- **Soft Skills:** Teamwork, Leadership, Adaptability, Critical Thinking, Continuous Learning
+## 🛠️ Tech Stack
+**Languages:** Python, C/C++, C#, JavaScript, SQL  
+**Web & Frameworks:** React, Node.js, HTML, CSS, .NET, WinForms  
+**Databases:** MySQL, PostgreSQL, MongoDB, Neo4j  
+**Core:** OOP, DSA, REST APIs, JWT, AI Search, Cryptography, IoT  
 
 ---
 
-## 📂 Featured Projects
-- 🐐 **Pak Animals App-Qurbani App** – A console-based sale and purchase app in C++
-- 🎮 **Pest Shooter** – A fun console-based shooting game in C++
-- 🏢 **ITEC Event Management System** – Built using C#, WinForms, and MySQL
-- ✈️ **Airline Management System** – SQL database project with a comprehensive schema
+## ⭐ Featured Projects
+
+🔐 **StegoSec**  
+Secure communication system using **steganography & encryption**  
+🔗 https://github.com/WareeshaAmeerKhan/StegoSec  
+
+---
+
+🧠 **TriBase**  
+Interactive platform for learning **SQL & NoSQL databases** with progress tracking  
+🔗 https://github.com/WareeshaAmeerKhan/TriBase  
+
+---
+
+🤖 **AI Search Simulator & Assistant**  
+Visualization of **AI search algorithms with a logical agent**  
+🔗 https://github.com/WareeshaAmeerKhan/AgentIQ  
+
+---
+
+📡 **Smart Digital Notice Board**  
+IoT-based real-time system using **MQTT + REST APIs**  
+
+---
+
+✈️ **AeroSync – Airline Management System**  
+Full-stack desktop system for **flights, bookings & data management**  
+🔗 https://github.com/WareeshaAmeerKhan/AeroSync_Airline-Management-System  
+
+---
+
+## 💼 Experience
+**Graphic Designer & Video Editor Intern – BinAsghar Agency**  
+Worked on social media designs, branding materials, and marketing content  
+
+---
+
+## 🌟 Leadership
+**Co-Lead, Design Team – ACM UET**  
+Leading design execution and managing creative deliverables  
 
 ---
 
 ## 📫 Connect With Me
-- **GitHub:** [WareeshaAmeerKhan](https://github.com/WareeshaAmeerKhan)
-- **LinkedIn:** [Wareesha Ameer Khan](https://linkedin.com/in/wareesha-ameer-khan-niazi2007)
-- **Email:** wareeshaameerkhan@gmail.com
+- GitHub: https://github.com/WareeshaAmeerKhan  
+- LinkedIn: https://linkedin.com/in/wareeshaameerkhan 
+- Email: wareeshaameerkhan@gmail.com  
 
-⭐ _Thanks for visiting my profile!_ ⭐  
-Let's connect and collaborate on exciting projects 🚀
+---
+
+⭐ *Open to internships and collaborations in software development, AI, and full-stack systems* 🚀
