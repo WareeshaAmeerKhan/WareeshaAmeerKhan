@@ -57,7 +57,7 @@ Worked on social media designs, branding materials, and marketing content
 ---
 
 ## 🌟 Leadership
-**Co-Lead, Design Team – ACM UET**  
+**Lead, Design Team – ACM UET**  
 Leading design execution and managing creative deliverables  
 
 ---
