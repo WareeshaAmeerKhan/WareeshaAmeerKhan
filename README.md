@@ -1,16 +1,56 @@
 # Hi there! I'm Wareesha Ameer Khan
 
-## About Me
-Computer Science undergraduate at **UET Lahore (CS’28)** with hands-on experience in **full-stack development, AI systems, and secure applications**.  
-Focused on building **scalable, efficient, and user-centered software** using modern technologies.
+## 👋 About Me
+
+Computer Science undergraduate at **UET Lahore (CS'28)** passionate about building software that solves real-world problems. I enjoy developing **full-stack web applications**, exploring **Artificial Intelligence**, and designing secure, scalable, and user-focused systems.
+
+Currently learning, building, and contributing through academic projects, open source, and continuous self-improvement.
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, C/C++, C#, JavaScript, SQL  
-**Web & Frameworks:** React, Node.js, HTML, CSS, .NET, WinForms  
-**Databases:** MySQL, PostgreSQL, MongoDB, Neo4j  
-**Core:** OOP, DSA, REST APIs, JWT, AI Search, Cryptography, IoT  
+
+### 💻 Languages
+- Python
+- JavaScript
+- C
+- C++
+- C#
+- SQL
+
+### 🌐 Frontend
+- React
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- Neo4j
+
+### 🧠 Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Software Engineering
+- AI Search Algorithms
+- Logical Agents
+- Database Design
+- Cryptography
+- IoT
+
+### 🛠️ Tools
+- Git
+- GitHub
+- VS Code
+- Visual Studio
 
 ---
 
@@ -51,14 +91,47 @@ Full-stack desktop system for **flights, bookings & data management**
 ---
 
 ## 💼 Experience
-**Graphic Designer & Video Editor Intern – BinAsghar Agency**  
-Worked on social media designs, branding materials, and marketing content  
+
+### Business Development Intern
+**Spadasoft** *(Jun 2026 – Present)*
+- Write tailored Upwork proposals based on client requirements.
+- Research potential clients by identifying decision-makers and sourcing business contacts.
+- Support client outreach through LinkedIn and other professional platforms.
+
+### Graphic Designer & Video Editor Intern
+**BinAsghar Digital Marketing Agency** *(Dec 2025 – Mar 2026)*
+- Designed social media creatives, branding assets, print media, and promotional videos.
+- Delivered marketing content for multiple brands while maintaining visual consistency.
+
+### Text Corpus Development Intern
+**Centre for Language Engineering (CLE), KICS, UET Lahore** *(Jun 2024 – Aug 2024)*
+- Collected, organized, and maintained linguistic data for text corpus development.
+- Conducted voice data collection for speech dataset creation.
 
 ---
 
-## 🌟 Leadership
-**Lead, Design Team – ACM UET**  
-Leading design execution and managing creative deliverables  
+## 🌟 Leadership & Activities
+
+### Lead, Design Team
+**ACM Student Chapter, UET Lahore** *(May 2026 – Present)*
+- Lead the Design Team in delivering branding and promotional materials for technical events and initiatives.
+- Coordinate design workflows and mentor team members.
+
+### Co-Lead, Design Team
+**ACM Student Chapter, UET Lahore** *(Feb 2025 – May 2026)*
+- Supported the planning and execution of creative assets for ACM events and campaigns.
+
+### Co-Lead, Web Development Team
+**ACM Student Chapter, UET Lahore** *(Oct 2025 – Feb 2026)*
+- Collaborated on web development initiatives and technical projects.
+
+### General Member, Design Team
+**ACM Student Chapter, UET Lahore** *(Oct 2025 – Feb 2026)*
+- Contributed to social media graphics and event branding.
+
+### ITEC Management Team
+**Computer Science Department, UET Lahore** *(2025)*
+- Assisted in planning, organizing, and coordinating departmental technical events.
 
 ---
 
